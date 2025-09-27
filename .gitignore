@@ -1,0 +1,5 @@
+# Ignore file and folders
+.local/
+.env/
+.venv/
+__pycache__/
