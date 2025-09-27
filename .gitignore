@@ -1,5 +1,5 @@
 # Ignore file and folders
 .local/
-.env/
-.venv/
+.env
+.venv
 __pycache__/
